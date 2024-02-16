@@ -24,4 +24,5 @@ for city in city_df.collect():
 
     # final_df.show()
     # write dataframe to file in csv format
-    final_df.write.csv(f'file:///home/talentum/test-jupyter/Hourly/humid/',header=True)
+    final_df.write.csv(f'file:///home/talentum/test-jupyter/Hourly/{city["City"]}',header=True)
+    # TO DUMP INTO MONGO DATABASE

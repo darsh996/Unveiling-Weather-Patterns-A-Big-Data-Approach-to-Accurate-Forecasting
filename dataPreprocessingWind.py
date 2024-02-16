@@ -49,4 +49,4 @@ for city in city_df.collect():
     # final_df.show()
 
     # write dataframe to file in csv format
-    wind_df.write.csv(f'file:///home/talentum/test-jupyter/Hourly/Output/Adilabad_wind', header=True)
+    wind_df.write.csv(f'file:///home/talentum/test-jupyter/Hourly/Output/wind/{city["City"]}_', header=True)
