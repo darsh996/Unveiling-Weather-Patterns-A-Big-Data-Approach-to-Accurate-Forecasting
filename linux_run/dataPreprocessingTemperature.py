@@ -29,7 +29,7 @@ city_df = spark.read.csv('file:///home/hadoop/Documents/Indian_Cities_Database.c
 for city in city_df.collect():
     # print(city["City"])
     # Load the json file
-    file_path = f'file:///home/hadoop/Documents/Dataset/humid/{city["City"]}_{city["latitude"]}_{city["longitude"]}_*.json'
+    file_path = f'file:///home/hadoop/Documents/Dataset/temperature/{city["City"]}_{city["latitude"]}_{city["longitude"]}_*.json'
 
     data_df = spark.read.json(file_path, multiLine=True, schema=schema) \
     .select(F.col("properties.parameter.*"),F.col("geometry.coordinates"))
