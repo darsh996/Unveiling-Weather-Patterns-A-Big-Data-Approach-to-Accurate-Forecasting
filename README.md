@@ -5,7 +5,7 @@
 
 **Unveiling-Weather-Patterns-A-Big-Data-Approach-to-Accurate-Forecasting**
 
-![image](https://github.com/darsh996/Unveiling-Weather-Patterns-A-Big-Data-Approach-to-Accurate-Forecasting/assets/97582053/9c2ac5c7-6493-448c-a298-3df68555361d)
+![Screenshot 2024-02-23 at 9 29 43 AM](https://github.com/darsh996/Unveiling-Weather-Patterns-A-Big-Data-Approach-to-Accurate-Forecasting/assets/97582053/38abb5a4-781b-4ff2-9a5f-5682ad6ed150)
 
 Submitted in partial fulfillment for the award of
 Post Graduate Diploma in Big Data Analytics (PGDBDA)
