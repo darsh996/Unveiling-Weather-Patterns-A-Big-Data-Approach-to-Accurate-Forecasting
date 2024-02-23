@@ -1,4 +1,4 @@
-# CDAC-Project
+![image](https://github.com/darsh996/Unveiling-Weather-Patterns-A-Big-Data-Approach-to-Accurate-Forecasting/assets/97582053/f08b4fb4-0006-43dc-9238-2e237ef563ca)# CDAC-Project
 
 # CDAC-Project
 **Project Report On**
@@ -17,10 +17,10 @@ Trupti Joshi Ma’am & Prasad Deshmukh Sir
 
 Submitted By:
 
-Ankit Kharwar (230943025006)
-Akhil Goplani (230943025004)
-Darshan Satone (230943025013)
-Manish Kumar (230943025028)
+Ankit Kharwar<br>
+Akhil Goplani<br>
+Darshan Satone<br>
+Manish Kumar<br>
 
 **Introduction**
 
@@ -29,6 +29,8 @@ This project presents a comprehensive approach to weather forecasting by harness
 **Dataset Collection and Features**
 
 We successfully collected a substantial dataset from NASA's prediction of worldwide energy resources through their data access viewer (https://power.larc.nasa.gov/data-access-viewer/).
+Additionally, we express our gratitude to NASA for providing this valuable dataset, acknowledging their significant role in advancing scientific understanding and fostering collaborative efforts for the greater good.
+
 
 **Architecture**
 
