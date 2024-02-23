@@ -1,0 +1,214 @@
+City,latitude,longitude,country,iso2,State
+Abohar,30.1445,74.1955,India,IN,Punjab
+Adilabad,19.4000,78.3100,India,IN,Telangana
+Agartala,23.8360,91.2794,India,IN,Tripura
+Agra,27.1879,78.0039,India,IN,Uttar Pradesh
+Ahmadnagar,19.0946,74.7384,India,IN,Maharashtra
+Ahmedabad,23.0258,72.5873,India,IN,Gujarat
+Aizawl  ,23.7367,92.7146,India,IN,Mizoram
+Ajmer,26.4521,74.6387,India,IN,Rajasthan
+Akola,20.7096,76.9981,India,IN,Maharashtra
+Alappuzha,9.4946,76.3311,India,IN,Kerala
+Aligarh,27.8815,78.0746,India,IN,Uttar Pradesh
+Alipurduar,26.4835,89.5229,India,IN,West Bengal
+Allahabad,25.4448,81.8432,India,IN,Uttar Pradesh
+Alwar,27.5663,76.6102,India,IN,Rajasthan
+Ambala,30.3610,76.7978,India,IN,Haryana
+Amaravati,20.9333,77.7515,India,IN,Maharashtra
+Amritsar,31.6223,74.8753,India,IN,Punjab
+Asansol,23.6833,86.9833,India,IN,West Bengal
+Aurangabad,19.8809,75.3467,India,IN,Maharashtra
+Aurangabad,24.7520,84.3742,India,IN,Bihar
+Bakshpur,25.8943,80.7921,India,IN,Uttar Pradesh
+Bamanpuri,28.8045,79.0403,India,IN,Uttar Pradesh
+Baramula,34.2090,74.3429,India,IN,Jammu and Kashmir
+Barddhaman,23.2557,87.8569,India,IN,West Bengal
+Bareilly,28.3470,79.4219,India,IN,Uttar Pradesh
+Belgaum,15.8626,74.5085,India,IN,Karnataka
+Bellary,15.1420,76.9240,India,IN,Karnataka
+Bengaluru,12.9771,77.5871,India,IN,Karnataka
+Bhagalpur,25.2445,86.9718,India,IN,Bihar
+Bharatpur,27.2153,77.4928,India,IN,Rajasthan
+Bharauri,27.5982,81.6947,India,IN,Uttar Pradesh
+Bhatpara,22.8664,88.4011,India,IN,West Bengal
+Bhavnagar,21.7745,72.1525,India,IN,Gujarat
+Bhilai,21.2092,81.4285,India,IN,Chhattisgarh
+Bhilwara,25.3471,74.6408,India,IN,Rajasthan
+Bhiwandi,19.3002,73.0588,India,IN,Maharashtra
+Bhiwani,28.7930,76.1397,India,IN,Haryana
+Bhopal ,23.2547,77.4029,India,IN,Madhya Pradesh
+Bhubaneshwar,20.2724,85.8339,India,IN,Odisha
+Bhuj,23.2540,69.6693,India,IN,Gujarat
+Bhusaval,21.0436,75.7851,India,IN,Maharashtra
+Bidar,17.9133,77.5301,India,IN,Karnataka
+Bijapur,16.8277,75.7190,India,IN,Karnataka
+Bikaner,28.0176,73.3150,India,IN,Rajasthan
+Bilaspur,22.0800,82.1554,India,IN,Chhattisgarh
+Brahmapur,19.3115,84.7929,India,IN,Odisha
+Budaun,28.0381,79.1267,India,IN,Uttar Pradesh
+Bulandshahr,28.4039,77.8577,India,IN,Uttar Pradesh
+Calicut,11.2480,75.7804,India,IN,Kerala
+Chanda,19.9508,79.2952,India,IN,Maharashtra
+Chandigarh ,30.7363,76.7884,India,IN,Chandigarh
+Chennai,13.0846,80.2484,India,IN,Tamil Nadu 
+Chikka Mandya,12.5456,76.8951,India,IN,Karnataka
+Chirala,15.8238,80.3522,India,IN,Andhra Pradesh
+Coimbatore,11.0055,76.9661,India,IN,Tamil Nadu 
+Cuddalore,11.7463,79.7644,India,IN,Tamil Nadu 
+Cuttack,20.5229,85.7881,India,IN,Odisha
+Daman,20.4143,72.8324,India,IN,Daman and Diu
+Davangere,14.4692,75.9238,India,IN,Karnataka
+DehraDun,30.3244,78.0339,India,IN,Uttarakhand
+Delhi,28.6520,77.2315,India,IN,Delhi
+Dhanbad,23.8020,86.4432,India,IN,Jharkhand
+Dibrugarh,27.4799,94.9084,India,IN,Assam
+Dindigul,10.3629,77.9758,India,IN,Tamil Nadu 
+Dispur,26.1356,91.8007,India,IN,Assam
+Diu,20.7151,70.9880,India,IN,Daman and Diu
+Faridabad,28.4112,77.3132,India,IN,Haryana
+Firozabad,27.1509,78.3978,India,IN,Uttar Pradesh
+Fyzabad,26.7755,82.1502,India,IN,Uttar Pradesh
+Gangtok,27.3257,88.6122,India,IN,Sikkim
+Gaya,24.7969,85.0039,India,IN,Bihar
+Ghandinagar,23.2167,72.6833,India,IN,Gujarat
+Ghaziabad,28.6654,77.4391,India,IN,Uttar Pradesh
+Gopalpur,26.7354,83.3806,India,IN,Uttar Pradesh
+Gulbarga,17.3358,76.8376,India,IN,Karnataka
+Guntur,16.2997,80.4573,India,IN,Andhra Pradesh
+Gurugram,28.4601,77.0264,India,IN,Haryana
+Guwahati,26.1761,91.7629,India,IN,Assam
+Gwalior,26.2298,78.1734,India,IN,Madhya Pradesh
+Haldia,22.0253,88.0583,India,IN,West Bengal
+Haora,22.5769,88.3186,India,IN,West Bengal
+Hapur,28.7298,77.7807,India,IN,Uttar Pradesh
+Haripur,31.4632,75.9864,India,IN,Punjab
+Hata,27.5927,78.0138,India,IN,Uttar Pradesh
+Hindupur,13.8281,77.4914,India,IN,Andhra Pradesh
+Hisar,29.1539,75.7229,India,IN,Haryana
+Hospet,15.2695,76.3871,India,IN,Karnataka
+Hubli,15.3500,75.1386,India,IN,Karnataka
+Hyderabad,17.3841,78.4564,India,IN,Telangana
+Imphal,24.8081,93.9442,India,IN,Manipur
+Indore,22.7177,75.8586,India,IN,Madhya Pradesh
+Itanagar,27.1023,93.6920,India,IN,Arunachal Pradesh
+Jabalpur,23.1745,79.9359,India,IN,Madhya Pradesh
+Jaipur,26.9133,75.7879,India,IN,Rajasthan
+Jammu,32.7357,74.8691,India,IN,Jammu and Kashmir
+Jamshedpur,22.8028,86.1854,India,IN,Jharkhand
+Jhansi,25.4589,78.5799,India,IN,Uttar Pradesh
+Jodhpur,26.2684,73.0059,India,IN,Rajasthan
+Jorhat,26.7575,94.2031,India,IN,Assam
+Kagaznagar,19.3316,79.4661,India,IN,Andhra Pradesh
+Kakinada,16.9604,82.2381,India,IN,Andhra Pradesh
+Kalyan,19.2437,73.1355,India,IN,Maharashtra
+Karimnagar,18.4367,79.1322,India,IN,Telangana
+Karnal,29.6920,76.9845,India,IN,Haryana
+Karur,10.9603,78.0768,India,IN,Tamil Nadu 
+Kavaratti,10.5667,72.6167,India,IN,Lakshadweep
+Khammam,17.2477,80.1437,India,IN,Telangana
+Khanapur,21.2737,76.1174,India,IN,Maharashtra
+Kochi,9.9477,76.2538,India,IN,Kerala
+Kohima,25.6747,94.1110,India,IN,Nagaland
+Kolar,13.1377,78.1300,India,IN,Karnataka
+Kolhapur,16.6956,74.2317,India,IN,Maharashtra
+Kolkata ,22.5626,88.3630,India,IN,West Bengal
+Kollam,8.8811,76.5847,India,IN,Kerala
+Kota,25.1825,75.8391,India,IN,Rajasthan
+Krishnanagar,23.4058,88.4907,India,IN,West Bengal
+Krishnapuram,12.8696,79.7195,India,IN,Tamil Nadu 
+Kumbakonam,10.9598,79.3775,India,IN,Tamil Nadu 
+Kurnool,15.8289,78.0360,India,IN,Andhra Pradesh
+Latur,18.3995,76.5843,India,IN,Maharashtra
+Lucknow,26.8393,80.9231,India,IN,Uttar Pradesh
+Ludhiana,30.9120,75.8538,India,IN,Punjab
+Machilipatnam,16.1875,81.1389,India,IN,Andhra Pradesh
+Madurai,9.9173,78.1196,India,IN,Tamil Nadu 
+Mahabubnagar,16.7500,78.0000,India,IN,Telangana
+Malegaon Camp,20.5700,74.5154,India,IN,Maharashtra
+Mangalore,12.8654,74.8424,India,IN,Karnataka
+Mathura,27.5035,77.6721,India,IN,Uttar Pradesh
+Meerut,28.9800,77.7064,India,IN,Uttar Pradesh
+Mirzapur,25.1449,82.5653,India,IN,Uttar Pradesh
+Moradabad,28.8389,78.7768,India,IN,Uttar Pradesh
+Mumbai,18.9878,72.8364,India,IN,Maharashtra
+Muzaffarnagar,29.4709,77.7033,India,IN,Uttar Pradesh
+Muzaffarpur,26.1226,85.3906,India,IN,Bihar
+Mysore,12.2927,76.6385,India,IN,Karnataka
+Nagercoil,8.1773,77.4344,India,IN,Tamil Nadu 
+Nalgonda,17.0500,79.2700,India,IN,Telangana
+Nanded,19.1602,77.3150,India,IN,Maharashtra
+Nandyal,15.4780,78.4836,India,IN,Andhra Pradesh
+Nasik,20.0000,73.7769,India,IN,Maharashtra
+Navsari,20.8500,72.9167,India,IN,Gujarat
+Nellore,14.4499,79.9870,India,IN,Andhra Pradesh
+New Delhi,28.6000,77.2000,India,IN,Delhi
+Nizamabad,18.6732,78.1001,India,IN,Telangana
+Ongole,15.5036,80.0445,India,IN,Andhra Pradesh
+Pali,25.7751,73.3206,India,IN,Rajasthan
+Panaji,15.4983,73.8245,India,IN,Goa
+Panchkula,30.6915,76.8537,India,IN,Haryana
+Panipat,29.3875,76.9682,India,IN,Haryana
+Parbhani,19.2686,76.7708,India,IN,Maharashtra
+Pathankot,32.2748,75.6529,India,IN,Punjab
+Patiala,30.3362,76.3922,India,IN,Punjab
+Patna,25.6154,85.1010,India,IN,Bihar
+Pilibhit,28.6312,79.8044,India,IN,Uttar Pradesh
+Porbandar,21.6413,69.6009,India,IN,Gujarat
+Port Blair,11.6667,92.7500,India,IN,Andaman and Nicobar Islands
+Proddatur,14.7502,78.5481,India,IN,Andhra Pradesh
+Puducherry,11.9338,79.8298,India,IN,Puducherry
+Pune,18.5133,73.8499,India,IN,Maharashtra
+Puri,19.7983,85.8249,India,IN,Odisha
+Purnea,25.7767,87.4737,India,IN,Bihar
+Raichur,16.2055,77.3557,India,IN,Karnataka
+Raipur,21.2333,81.6333,India,IN,Chhattisgarh
+Rajahmundry,17.0052,81.7778,India,IN,Andhra Pradesh
+Rajapalaiyam,9.4511,77.5561,India,IN,Tamil Nadu 
+Rajkot,22.2916,70.7932,India,IN,Gujarat
+Ramagundam,18.4500,79.2800,India,IN,Telangana
+Rampura,26.8847,75.7893,India,IN,Rajasthan
+Ranchi,23.3478,85.3386,India,IN,Jharkhand
+Ratlam,23.3303,75.0403,India,IN,Madhya Pradesh
+Raurkela,22.2250,84.8641,India,IN,Odisha
+Rohtak,28.8945,76.5892,India,IN,Haryana
+Saharanpur,29.9679,77.5452,India,IN,Uttar Pradesh
+Saidapur,27.5988,80.7509,India,IN,Uttar Pradesh
+Saidpur,34.3182,74.4571,India,IN,Jammu and Kashmir
+Salem,11.6512,78.1587,India,IN,Tamil Nadu 
+Samlaipadar,21.4781,83.9905,India,IN,Odisha
+Sangli,16.8568,74.5692,India,IN,Maharashtra
+Saugor,23.8388,78.7387,India,IN,Madhya Pradesh
+Shahbazpur,27.8741,79.8793,India,IN,Uttar Pradesh
+Shiliguri,26.7100,88.4285,India,IN,West Bengal
+Shillong ,25.5740,91.8968,India,IN,Meghalaya
+Shimla,31.1044,77.1666,India,IN,Himachal Pradesh
+Shimoga,13.9324,75.5726,India,IN,Karnataka
+Sikar,27.6148,75.1387,India,IN,Rajasthan
+Silchar,24.8273,92.7979,India,IN,Assam
+Silvassa,20.2739,72.9967,India,IN,Dadra and Nagar Haveli
+Sirsa,29.5349,75.0290,India,IN,Haryana
+Sonipat,28.9948,77.0194,India,IN,Haryana
+Srinagar,34.0857,74.8056,India,IN,Jammu and Kashmir
+Surat,21.1959,72.8302,India,IN,Gujarat
+Tezpur,26.6333,92.8000,India,IN,Assam
+Thanjavur,10.7852,79.1391,India,IN,Tamil Nadu 
+Tharati Etawah,26.7582,79.0149,India,IN,Uttar Pradesh
+Thiruvananthapuram,8.4855,76.9492,India,IN,Kerala
+Tiruchchirappalli,10.8155,78.6965,India,IN,Tamil Nadu 
+Tirunelveli,8.7252,77.6845,India,IN,Tamil Nadu 
+Tirupati,13.6355,79.4199,India,IN,Andhra Pradesh
+Tiruvannamalai,12.2302,79.0730,India,IN,Tamil Nadu 
+Tonk,26.1687,75.7861,India,IN,Rajasthan
+Tuticorin,8.8050,78.1519,India,IN,Tamil Nadu 
+Udaipur,24.5795,73.6905,India,IN,Rajasthan
+Ujjain,23.1824,75.7764,India,IN,Madhya Pradesh
+Vadodara,22.2994,73.2081,India,IN,Gujarat
+Valparai,10.3252,76.9553,India,IN,Tamil Nadu 
+Varanasi,25.3177,83.0058,India,IN,Uttar Pradesh
+Vellore,12.9058,79.1371,India,IN,Tamil Nadu 
+Vishakhapatnam,17.7041,83.2977,India,IN,Andhra Pradesh
+Vizianagaram,18.1133,83.3977,India,IN,Andhra Pradesh
+Warangal,17.9784,79.6002,India,IN,Telangana
+Jorapokhar,23.7000,86.4127,India,IN,Jharkhand
+Brajrajnagar,21.8200,83.9200,India,IN,Odisha
+Talcher,20.9500,85.2300,India,IN,Odisha
