@@ -1,6 +1,3 @@
-![image](https://github.com/darsh996/Unveiling-Weather-Patterns-A-Big-Data-Approach-to-Accurate-Forecasting/assets/97582053/f08b4fb4-0006-43dc-9238-2e237ef563ca)# CDAC-Project
-
-# CDAC-Project
 **Project Report On**
 
 **Unveiling-Weather-Patterns-A-Big-Data-Approach-to-Accurate-Forecasting**
